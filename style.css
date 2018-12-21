@@ -52,10 +52,7 @@ p {
   line-height: 1.5;
 }
 
-a, a:hover, a:focus, a:active, a:visited {
-  color: #E74C3C;
-  text-decoration: underline;
-}
+
 
 /* ========================
 Containers
@@ -390,3 +387,8 @@ Media Queries
   }
   
 }
+
+.rouge {
+
+color: red;
+} 
